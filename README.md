@@ -1,3 +1,3 @@
 # Birdwatching
 
-Example Birdwatching websight 
+Jett's Birdwatching websight Project
